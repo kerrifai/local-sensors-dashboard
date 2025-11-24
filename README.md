@@ -94,3 +94,8 @@ python app.py
 **4. Alerts are logged into SQLite**
 
 **5. User can export complete data to Excel**
+
+## 🖥️ UI Preview
+
+
+![Local Sensor Dashboard](https://github.com/user-attachments/assets/58b1794d-0613-4a63-9dbb-5adc37e92f9e)
